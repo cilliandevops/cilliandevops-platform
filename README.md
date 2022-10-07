@@ -1,6 +1,9 @@
 
 # CillianDevOps 运维开发管理平台
 基于orion-ops(lijiahangmax)最初版二次开发，仅用于学习目的使用
+![img.png](img.png)
+![img_1.png](img_1.png)
+
 ## 技术栈
 * SpringBoot 2.4.4
 * MybatisPlus 3.4.0
@@ -22,5 +25,5 @@
 
 
 ## 交流讨论
-* mail：cilliandevops@163.com
+* mail：cilliandevops@gmail.com
 * wechat： cilliandevops
