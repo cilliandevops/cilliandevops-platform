@@ -1,6 +1,9 @@
 
 # CillianDevOps 运维开发管理平台
-基于orion-ops(lijiahangmax)最初版二次开发，仅用于学习目的使用
+本版本基于大佬李佳航orion-ops(lijiahangmax)最初版二次开发，仅用于学习目的，再次特别感谢李佳航大佬的开源资源。
+
+##我们所拥有的现在，都是因为前辈们无私的积累与奉献！
+
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 
